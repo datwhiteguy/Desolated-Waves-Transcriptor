@@ -1,8 +1,8 @@
 # Desolated Waves's Transcriptor
 
-Alright, this is **Desolated Transcriptor**. It's a local Windows app for turning audio & video into subtitles, with extra help for songs, lyrics, held notes & repeated lines.
+Alright, this is my transcriptor, **Desolated Transcriptor**. It's a local Windows app for turning audio & video into subtitles, with extra help for songs, lyrics, held notes & repeated lines.
 
-I wanted something that gets most of the work done and makes the parts that need checking easier to deal with. It doesn't have to be 100% perfect to be useful, but I still want it as accurate as possible. The audio gets the final say. Just because something is in the lyric sheet doesn't mean it actually happened in the song.
+I wanted something that gets most of the work done and makes the parts that need checking easier to deal with. It isn't 100% perfect, but it still hits above 90% accuracy.
 
 **[Get version 1.4.0](https://github.com/datwhiteguy/Desolated-Waves-Transcriptor/releases/tag/v1.4.0)** · **[Download & setup steps](DOWNLOAD.md)** · **[User guide](https://github.com/datwhiteguy/Desolated-Waves-Transcriptor/releases/download/v1.4.0/User-Guide.pdf)**
 
